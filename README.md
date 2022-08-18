@@ -1,5 +1,6 @@
 **** Pequeña red social desarrollada como proyecto de clase ingenieria del software ****
 **** Permite publicar post, comentar y subir imagagenes ****
+**** Desarrollado con PHP en Laravel como Framework ****
 
 
 
